@@ -9,5 +9,6 @@ Autonomous Vehicle for Continuous Person Search using LLM
 - **데이터베이스**:
 - **기타**: Jupyter Notebook
 
-## 설치 방법
+## 시스템 구조
+- LLM 폴더에서 생성한 JSON 파일로 UI 홈페이지 구현
 ...
